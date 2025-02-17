@@ -17,7 +17,7 @@ DP is applicable when a problem exhibits overlapping subproblems and optimal sub
 ### 2. Recurrence Relation
 * A mathematical formula that defines the solution in terms of its subproblems.
 * Example: For the Fibonacci sequence: 
-$$ F(n)=F(n−1)+F(n−2)$$
+$F(n)=F(n−1)+F(n−2)$
 where $F(0)=0$ and $F(1)=1$ are the base cases.
 
 ### 3. Memoization (Top-Down Approach)
