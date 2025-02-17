@@ -22,7 +22,7 @@ where $F(0)=0$ and $F(1)=1$ are the base cases.
 
 ### 3. Memoization (Top-Down Approach)
 * A recursive approach that stores the results of subproblems in a table to avoid recomputation.
-* This reduces the time complexity from exponential ($O(2^n)$) to linear ($O(n)$).
+* This reduces the time complexity from exponential $O(2^n)$ to linear $O(n)$.
 
 ### 4. Tabulation (Bottom-Up Approach)
 * A non-recursive approach where results are stored in an array and built iteratively.
