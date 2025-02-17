@@ -29,3 +29,8 @@ where $F(0)=0$ and $F(1)=1$ are the base cases.
 
 ### 5. State transition
 * Describes how the solution progresses from one state to another.
+
+## Main Components of Dynamic Programming
+We propose two problems that can be solved using dynamic programming:
+* The Longest Increasing Subsequence Problem (DP-LIS)
+* The Edit Distance Problem (DP-Edit)
